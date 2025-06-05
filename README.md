@@ -52,5 +52,5 @@ Fetches live weather data using an API with a sleek, mobile-responsive UI.
 
 ## 📫 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/) *(add your profile link)*
+- 💼 [LinkedIn](www.linkedin.com/in/zaineb-bourhou)
 - 🌐 Portfolio: *(coming soon!)*
