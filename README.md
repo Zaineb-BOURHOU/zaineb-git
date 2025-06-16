@@ -53,4 +53,4 @@ Fetches live weather data using an API with a sleek, mobile-responsive UI.
 ## 📫 Let's Connect!
 
 - 💼 [LinkedIn](www.linkedin.com/in/zaineb-bourhou)
-- 🌐 Portfolio: *(coming soon!)*
+- 🌐 [Portfolio](https://zaineb-bourhou.github.io)
